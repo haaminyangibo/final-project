@@ -1,0 +1,14 @@
+#secret-message { font: 10px Courier, MonoSpace; white-space: nowrap; }
+
+#secret-message span { display: inline-block; vertical-align: middle; width: 12px; height: 12px; border-bottom: 1px solid white; border-right: 1px solid white; }
+
+#secret-message ::-moz-selection { color: white; background: white; }
+#secret-message ::selection { color: white; background: white; }
+#secret-message .selected::-moz-selection { color: #900; background: white; }
+#secret-message .selected::selection { color: #900; background: white; }
+
+
+h1 div{
+
+	border: solid 2px black;
+}
