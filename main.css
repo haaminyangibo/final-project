@@ -8,7 +8,16 @@
 #secret-message .selected::selection { color: #900; background: white; }
 
 
-h1 div{
+h1 {
 
 	border: solid 2px black;
+}
+
+.secret-text-container {
+
+	text-align: : right;
+}
+
+body {
+	background-color: lavender;
 }
